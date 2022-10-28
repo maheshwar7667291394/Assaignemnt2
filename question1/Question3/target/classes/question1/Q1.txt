@@ -1,0 +1,14 @@
+In Spring, those objects that form the backbone of your application and that 
+are managed by the Spring IoC container are referred to as beans. 
+A bean is simply an object that is instantiated, assembled and otherwise 
+managed by a Spring IoC container; other than that, there is nothing special about 
+a bean (it is in all other respects one of probably many objects in your application). 
+These beans, and the dependencies between them, are reflected in the configuration metadata used by a container
+
+
+
+Spring container is one type of Software that register Spring bean class for the Instantiation and then class is 
+ready to execute.
+
+
+Spring container register spring bean class by using id and fully qualified name.

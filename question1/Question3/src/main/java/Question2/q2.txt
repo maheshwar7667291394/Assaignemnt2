@@ -1,0 +1,10 @@
+Spring IoC Container is the core of Spring Framework. It creates the objects, 
+configures and assembles their dependencies, manages their entire life cycle.
+
+Spring helps in creating objects, managing objects, 
+configurations, etc. because of IoC (Inversion of Control)
+
+
+
+Spring Dependency injection is a way to inject the dependency of a framework component by the 
+following ways of spring: Constructor Injection and Setter Injection
